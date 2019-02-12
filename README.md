@@ -1,6 +1,6 @@
 # PizzariaEAT-BITS
 PFC feito na conclusão técnico em informática
--> Matheus Lago Frete e Thiago Piovesan
++ Matheus Lago Frete e Thiago Piovesan
 
 ## Este é um projeto web de uma pizzaria online, que contem todos os arquivos para sua utilização, instalalção e documentação.
 
